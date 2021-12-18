@@ -1,6 +1,6 @@
 # Unit 6 - Pythonic Monopoly
 
-# To View Solution in Web app go to http://localhost:5006/dashboard
+## To View Solution in Web app go to http://localhost:5006/dashboard
 
 ![Toronto at night](Images/toronto.jpg)
 
