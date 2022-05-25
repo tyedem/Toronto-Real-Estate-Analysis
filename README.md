@@ -29,8 +29,9 @@ In order to run the the panel dashboard via your local machine, follow the the s
 
 1. Open your CLI
 2. Navigate to the location of this cloned repository
-3. Execute `panel serve dashboard.ipynb`
-4. Copy & paste the localhost address from your CLI to your browser.
+3. Execute `conda activate pyvizenv` to load recommended environment
+4. Execute `panel serve dashboard.ipynb`
+5. Copy & paste the localhost address from your CLI to your browser.
 
 Once loaded in your browser, the dashboard will appear as the screenshots below.
 
