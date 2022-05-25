@@ -20,7 +20,7 @@ It is recommended to install the PyViz visualization package to ensure everythin
 
 Video Guide for installing PyViz: [PyViz Installation Video](https://youtu.be/ousjjkD4JbA) 
 
-## Jupyter Notebook Instructions
+## Libraries + Mapbox API Key
 In order to run both notebooks panel and its plotly extension, plotly express, hvplot, matplotlib, pandas, pathlib and dotenv libraries are required. A mapbox API key is also required to render the plotly express mapbox visualization.
 
 ## Running Dashboard via Command Line Interface (CLI)
