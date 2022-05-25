@@ -14,6 +14,12 @@ The data utilized for this project was retrieved from the following websites:
 * [Census Profile, 2016 Census - Toronto Metropolitan Area, Ontario and Canada](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CMACA&Code1=535&Geo2=PR&Code2=01&SearchText=toronto&SearchType=Begins&SearchPR=01&B1=All&TABID=1&type=0)
 
 
+# Environment Setup
+
+It is recommended to install the PyViz visualization package to ensure everything runs as expected. PyViz is a Python visualization package that provides a single platform to access multiple visualization packages, including Matplotlib, Plotly Express, hvPlot, Panel, D3.js, etc.
+
+Video Guide for installing PyViz: [PyViz Installation Video](https://youtu.be/ousjjkD4JbA) 
+
 ## Jupyter Notebook Instructions
 In order to run both notebooks panel and its plotly extension, plotly express, hvplot, matplotlib, pandas, pathlib and dotenv libraries are required. A mapbox API key is also required to render the plotly express mapbox visualization.
 
