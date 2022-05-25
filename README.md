@@ -17,7 +17,18 @@ The data utilized for this project was retrieved from the following websites:
 ## Jupyter Notebook Instructions
 In order to run both notebooks panel and its plotly extension, plotly express, hvplot, matplotlib, pandas, pathlib and dotenv libraries are required. A mapbox API key is also required to render the plotly express mapbox visualization.
 
-# Panel Dashboard Screenshots
+## Running Dashboard via Command Line Interface (CLI)
+
+In order to run the the panel dashboard via your local machine, follow the the steps below:
+
+1. Open your CLI
+2. Navigate to the location of this cloned repository
+3. Execute `panel serve dashboard.ipynb`
+4. Copy & paste the localhost address from your CLI to your browser.
+
+Once loaded in your browser, the dashboard will appear as the screenshots below.
+
+# Panel Dashboard
 ![mapbox](Images/mapbox.png)
 
 ![yearly-market-analysis](Images/yearly-market-analysis.png)
