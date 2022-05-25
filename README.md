@@ -23,6 +23,8 @@ Video Guide for installing PyViz: [PyViz Installation Video](https://youtu.be/ou
 ## Libraries + Mapbox API Key
 In order to run both notebooks panel and its plotly extension, plotly express, hvplot, matplotlib, pandas, pathlib and dotenv libraries are required. A mapbox API key is also required to render the plotly express mapbox visualization.
 
+ To register for a public mapbox API key visit this [sign-up link](https://account.mapbox.com/auth/signup/). Detailed information on how Mapbox can be used to generate plots can be found on [Plotly's documentation page](https://plotly.com/python/scattermapbox/#mapbox-access-token-and-base-map-configuration).
+
 ## Running Dashboard via Command Line Interface (CLI)
 
 In order to run the the panel dashboard via your local machine, follow the the steps below:
